@@ -1,3 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+body{
+  font-family: "Roboto", sans-serif;
+}
 h1 {
-  color: salmon;
+  color: rgba(78, 78, 78);
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  font-size: 40px;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+
+p {
+  color: rgba(78, 78, 78);
+  text-align: center;
+}
+
+button {
+  color: rgba(78, 78, 78);
+  padding: 10 50 10 50px;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
+div .main_page {
+
+}
+
+div .info_block {
+  text-align: center;
+}
+
+div .image_line{
+  display: inline-block;
+  position: relative;
+  margin: 20px;
+}
+
+div .image { 
+
 }
